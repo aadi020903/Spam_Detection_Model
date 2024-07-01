@@ -1,4 +1,4 @@
-Spam Detection Web Application
+# Spam Detection Web Application
 
 ## Overview
 
